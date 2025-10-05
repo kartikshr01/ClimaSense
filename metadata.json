@@ -1,0 +1,5 @@
+{
+  "name": "ClimaSense",
+  "description": "An app that uses historical data analysis to provide the likelihood of adverse weather conditions (very hot, cold, windy, wet, or uncomfortable) for a specific location and date, helping users plan outdoor events.",
+  "requestFramePermissions": []
+}
